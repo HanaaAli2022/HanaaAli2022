@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/HanaaAli/HanaaAli/master/name.svg" alt="Hanaa ALi" />
-</h1>
-
 ## Hey! 👋
 I'm Hanaa, a 21 years old web developer from Hungary.
 
@@ -11,6 +7,6 @@ I'm Hanaa, a 21 years old web developer from Hungary.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- https://www.linkedin.com/in/hanaa-ali-0511a324a
-- https://twitter.com/Hanaal68413974?t=n81VU-N-MOeQXQUDK0NRLQ&s=09 on Twitter
+- https://www.linkedin.com/in/hanaa-ali-0511a324a =>>OnLinkedin
+- https://twitter.com/Hanaal68413974?t=n81VU-N-MOeQXQUDK0NRLQ&s=09 =>> on Twitter
   
