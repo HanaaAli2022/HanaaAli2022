@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Hanaa ALi" />
+  <img src="https://raw.githubusercontent.com/martonlederer/Hanaa Ali/master/name.svg" alt="Hanaa ALi" />
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 21 years old web developer from Hungary.
+I'm Hanaa, a 21 years old web developer from Hungary.
 
 ## Skills
 - 👨‍💻 java,OOP,DataStructuer
