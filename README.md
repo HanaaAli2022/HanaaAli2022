@@ -1,12 +1,12 @@
 ## Hey! 👋
-I'm Hanaa, a 21 years old web developer from Egypt.
+I'm Hanaa, web developer from Egypt.
 I'm studing at faculty of Engineering 
 in Alzhar Unversity.
 
 ## Skills
 - 👨‍💻 java,OOP,DataStructuer
-- 👁️ HTML,CSS,javaScript
-- 💽 MySQL, SQL, Mongo
+- 👁️ HTML,CSS
+- 
 
 ## Contact
 - https://www.linkedin.com/in/hanaa-ali-0511a324a =>>OnLinkedin
