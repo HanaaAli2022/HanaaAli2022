@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/Hanaa Ali/master/name.svg" alt="Hanaa ALi" />
+  <img src="https://raw.githubusercontent.com/HanaaAli/HanaaAli/master/name.svg" alt="Hanaa ALi" />
 </h1>
 
 ## Hey! 👋
